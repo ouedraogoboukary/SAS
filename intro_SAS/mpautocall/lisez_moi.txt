@@ -1,0 +1,7 @@
+Ce dossier est presque vide.
+
+C'est dans ce dossier que je vous invite à  dans le chapitre 10 à
+enregistrer les programmes que vous souhaitez voir definir 
+des macro-programmes autocall.
+
+autant que ce dossier existe...

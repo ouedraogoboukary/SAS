@@ -1,0 +1,6 @@
+Albert 1 2 A
+René 3 3 A
+Gino 2 3 A
+Alberto 2 2 B
+Guido 0 3 B
+Renato 1 2 C

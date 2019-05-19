@@ -1,0 +1,15 @@
+Antonio 14.5
+Sophie 19.6
+Hélène 9.4
+Julie 9
+Emilie 6.4
+Valérie 0
+Sylvain 0.1
+Marie 19.7
+Claire 7
+Aurélie 0.1
+Guillaume 10
+Damien 3.9
+Lucie 3.6
+Antoine 9.1
+Benjamin 7.5

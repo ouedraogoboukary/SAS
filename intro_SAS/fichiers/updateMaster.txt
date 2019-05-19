@@ -1,0 +1,7 @@
+1	janvier	30
+2	février	35
+3	mars	37
+4	avril	35
+5	mai	39
+6	juin	40
+7	juillet	36

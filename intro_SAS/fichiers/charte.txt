@@ -1,0 +1,10 @@
+ele1 Gainsboro
+ele2 Lemon Chiffon
+ele3 Dark Slate Gray
+ele4 Sky Blue
+ele5 Pale Turquoise
+ele6 Gold
+ele7 Light Coral
+ele8 Medium Orchid
+ele9 Ivory3
+ele10 Steel Blue2

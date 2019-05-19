@@ -1,0 +1,7 @@
+Ce dossier est vide.
+
+certains programmes du chapitre 7 peuvent demander l'écriture des fichiers 
+correspondant aux graphiques dans un dossier GRAPHIQUES
+compris dans le dossier intro_sas.
+
+autant que ce dossier existe...

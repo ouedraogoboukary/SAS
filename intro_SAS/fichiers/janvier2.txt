@@ -1,0 +1,9 @@
+ID2009A052 Grégoire8@sas-sr.com R
+ID2009A052 Grégoire8@sas-sr.com N
+ID2009A052 Grégoire9@sas-sr.com U
+ID2009A169 Ama5@sas-sr.com U
+ID2009A169 Ama4@sas-sr.com U
+ID2009A169 Ama6@sas-sr.com R
+ID2009A224 Matthias9@sas-sr.com U
+ID2009A224 Matthias10@sas-sr.com U
+ID2009A224 Matthias11@sas-sr.com U

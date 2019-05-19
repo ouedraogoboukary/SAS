@@ -1,0 +1,6 @@
+Region State Capital Bird
+South Georgia Atlanta 'Brown Thrasher'
+South 'North Carolina' Raleigh Cardinal
+North Connecticut Hartford Robin
+West Washington Olympia 'American Goldfinch'
+Midwest Illinois Springfield Cardinal

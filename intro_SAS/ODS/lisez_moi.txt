@@ -1,0 +1,6 @@
+Ce dossier est vide.
+
+certains programmes du chapitre 8 demande l'écriture de fichier
+dans un dossier ODS compris dans le dossier intro_sas.
+
+autant que ce dossier existe...

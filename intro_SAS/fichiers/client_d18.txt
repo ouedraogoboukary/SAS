@@ -1,0 +1,15 @@
+1   Mathilde    A    43.01   0255555514
+3   Fred        B   543.07   0194129054
+2   Subira      C L 186.48   0684286414
+1   Ghislaine   B   354.96   0381302915
+1   Claudine    A   329.46   0449354914
+3   Claudiu     C L 183.55   0530126887
+3   Maximilien  B    97.23   0693879207
+2   Musa        A    17.24   0134202737
+2   Sara        C L 458.98   0246374008
+1   Crina       B   257.25   0676254011
+2   Brigitte    B    56.25   0250753698
+3   Mohamed     C L 632.25   0174519411
+3   Costel      A        0   0634591057
+3   Vienne      A   189.25   0377510080
+1   Carole      C L 774.01   0117795454

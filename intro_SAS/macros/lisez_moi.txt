@@ -1,0 +1,5 @@
+C'est dans ce dossier que je vous invite, dans le chapitre 10, à enregistrer
+les macro-programmes que vous allez ensuite automatiquement compiler au moyen
+de %INCLUDE
+
+autant que ce dossier existe...

@@ -1,0 +1,31 @@
+client;num;rue;CP;Ville;facture;date;nombre d'articles;total
+Agnès;64;rue de Maredsous;33410;Bedrieux-les-Plumeurs;N001;02/06/2018;21;6 892,54 €
+Apollinaire;5;rue Pierre-Joseph Redouté;01630;Cornillard-sur-Flanche;N002;03/06/2018;11;3 610,38 €
+Edwige;2;rue Joseph Court;07920;Vichebro;N003;04/06/2018;21;6 892,54 €
+Oni;93;place Polyvalente;11640;Maroufle;N004;04/06/2018;18;5 907,89 €
+Hamid;39;rue du Pont de l'Arquet;33410;Bedrieux-les-Plumeurs;N005;04/06/2018;18;5 907,89 €
+Grégoire;20;place du Puddleur;04250;Mouflard;N006;06/06/2018;26;8 533,62 €
+Barnabé;32;rue Robert Schuman;14110;Guingois;N007;07/06/2018;31;10 174,70 €
+Barthélémy;6;rue François de Civille;56460;Mufflins;N008;08/06/2018;9;2 953,95 €
+Ama;12;rue Louis Braille;07090;Vidoncle-en-Plouviard;N009;10/06/2018;14;4 595,03 €
+Lucille;44;rue Maladrerie;28670;Bistouilly;N010;10/06/2018;14;4 595,03 €
+Farouk;23;place du Boulingrin;07920;Vichebro;N011;10/06/2018;22;7 220,76 €
+Eulalie;59;desserte Thomas More;54420;Prainpoil;N012;12/06/2018;19;6 236,11 €
+Yves;48;rue Alain Blanchard;69840;Grugny;N013;12/06/2018;24;7 877,19 €
+Rosette;56;rue du Gros Chêne;56460;Mufflins;N014;13/06/2018;16;5 251,46 €
+Aude;24;rue Joseph Hanse;93980;Larfeuille-les-Riflards;N015;14/06/2018;11;3 610,38 €
+Gilles;57;rue Martainville;93980;Larfeuille-les-Riflards;N016;17/06/2018;23;7 548,97 €
+Friederike;43;cortil du Bailly;01630;Courson-les-Carrières;N017;18/06/2018;19;6 236,11 €
+Mélanie;44;avenue Jacques Chastellain;15300;Glamion;N018;18/06/2018;24;7 877,19 €
+Victoire;62;rue Guillaume le Conquérant;06860;Vichumme;N019;19/06/2018;17;5 579,68 €
+Joël;14;rue Henri Martin;01630;Courson-les-Carrières;N020;20/06/2018;24;7 877,19 €
+Anaxagoras;44;rue Malpalu;48530;Foulnieux;N021;20/06/2018;15;4 923,24 €
+Salma;18;place de la Neuville;48850;Grelon;N022;22/06/2018;19;6 236,11 €
+Matthias;65;route de Château-Gontier;11640;Maroufle;N023;22/06/2018;14;4 595,03 €
+Frédérique;12;cour des Borains;73210;Grugny;N024;23/06/2018;30;9 846,49 €
+Talitha;70;rue de l’ Invasion;27190;Egrillard;N025;23/06/2018;25;8 205,40 €
+Berthe;98;clos du Doudou;63650;Pleintéilles.;N026;24/06/2018;30;9 846,49 €
+Vespasien;45;impasse des Hauts Mariages;14110;Guingois;N027;25/06/2018;30;9 846,49 €
+Sorin;76;rue Archimède;63650;Pleintéilles.;N028;25/06/2018;10;3 282,16 €
+Lucienne;94;rampe Bouvreuil;32400;Caillebotte;N029;26/06/2018;17;5 579,68 €
+Haroun;25;rue des Vaux;85210;StaracVilleNouvelle;N030;30/06/2018;9;2 953,95 €

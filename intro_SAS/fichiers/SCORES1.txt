@@ -1,0 +1,15 @@
+Antonio 18.1
+Sophie 10.3
+Julie 1.5
+Erwan 12.4
+Emilie 6.3
+Valérie 14.1
+Marie 0.4
+Claire 5
+Aurélie 19.1
+Sanaa 19.6
+Guillaume 16.9
+Damien 8.4
+Lucie 3.1
+Antoine 2
+Benjamin 11.7

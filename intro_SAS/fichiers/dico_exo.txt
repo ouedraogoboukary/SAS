@@ -1,0 +1,4 @@
+l'éléphant the elephant  $1 000.00  1€  €12  1€
+les élèves the students  $2 000.00 11€  €13  10€
+le guépard the cheetah   $3 000.00 21€  €14  100€
+l'orange   the orange    $4 000.00 40€  €15  1000€

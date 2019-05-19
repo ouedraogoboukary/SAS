@@ -1,0 +1,3 @@
+C'est dans ce dossier que vous devez décompresser 
+l'archive contenant les données de température 
+mobilisées par le cas pratique du chapitre 11

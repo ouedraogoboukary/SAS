@@ -1,0 +1,14 @@
+1 famille Dupont
+2 Pierre      38
+2 Sophie      37
+2 Lucien       6
+2 Marcelline   5
+1 famille Dubois
+2 Marceau     42
+2 Michelle    37
+2 Marie       11
+1 famille Durand
+2 Jean        53
+1 famille Dufour
+2 Gaston      78
+2 Marie       75

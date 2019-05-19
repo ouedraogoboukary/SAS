@@ -1,0 +1,26 @@
+num,nom,ctype,pays
+10000,Martin,A,FRA
+10002,Bernard,A,FRA
+10010,Johnson,A,USA
+10017,Thomas,P,FRA
+10021,Korhonen,P,FIN
+10030,Müller,A,ALL
+10036,Jensen,P,DAN
+10039,Peeters,A,BEL
+10046,Ivanov,A,RUS
+10056,Maes,A,BEL
+10064,Smith,A,USA
+10066,Dubois,A,FRA
+10075,Lee,P,CAN
+10085,Virtanen,A,FIN
+10087,Schmidt,P,ALL
+10095,Rossi,A,ITA
+10101,De Jong,A,NED
+10102,Smirnov,P,RUS
+10111,Janssens,P,BEL
+10120,García,A,ESP
+10128,Roux,A,FRA
+10132,Morel,A,FRA
+10138,Meyer,P,ALL
+10146,Conti,P,ITA
+10151,Kristiansen,A,NOR

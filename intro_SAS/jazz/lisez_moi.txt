@@ -1,0 +1,18 @@
+Ce dossier contient les tables mobilisées lors du chapitre consacré à PROC SQL.
+
+attention à la table COMMANDES : 
+
+le programme 9-55 met à jour cette table au moyen de données stockées dans la table COMMANDES_R
+
+Si vous demandez cette mise à jour et redemandez ensuite des exécutions de programmes présentés plus tôt
+dans le chapitre et qui mobilisent cette table, vous pouvez obtenir des résultats différents de ceux
+présentés dans l'ouvrage ou sur le site.
+
+Pour retrouver la table COMMANDES "originale", importez le fichier COMMANDES.CSV présent dans ce dossier
+(voir le programme 9-72)
+
+
+Utilisateurs d'une version 32 bits de SAS
+
+ATTENTION : les tables de ce dossier sont des tables créées par une version 64 bits de SAS. 
+Vous trouverez dans le dossier SAS32, des versions créées par SAS 32 bits

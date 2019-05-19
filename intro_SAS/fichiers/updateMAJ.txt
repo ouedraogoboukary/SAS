@@ -1,0 +1,4 @@
+5	mai	.	A
+6	juin	39	A
+7	juillet	38	A
+8	août	41	A
