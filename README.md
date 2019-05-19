@@ -1,5 +1,6 @@
 # SAS
 SAS training
+
 Ceci constitue mon répertoire d'apprentissage et d'approfondissement de mes connaissances sur le logiciel SAS.
 1. Le dossier Intro_SAS contient les données accompagnant le livre "Introduction au décisionnel: du data management au réporting" de l'éminent professeur Sébastien RINGUEDE. J'ai acheté la toute dernière version de son livre(la version 4).
 
