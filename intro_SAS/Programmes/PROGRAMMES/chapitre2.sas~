@@ -1,0 +1,11 @@
+ DATA huston;
+INPUT titre_fr $1-21 titre_ori $ 22-38 annee 40-43 dure 45-47 acteur $ 51-69;
+CARDS;
+    Phobia           Phobia            1980  94mn Paul Michael Glaser
+  A nous la victoire Escape to Victory 1981 116mn Sylvester Stallone
+               Annie Annie             1982 126mn Aileen Quinn
+Au-dessous du volcan Under the Volcano 1984 112mn Albert Finney
+L'honneur des Prizzi Prizzi's Honor    1985 130mn Jack Nicholson
+      Gens de Dublin The Dead          1987  83mn Anjelica Huston
+;
+RUN;
